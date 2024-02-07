@@ -1,4 +1,4 @@
-# Assuntos ministrados no Módulo 2:
+# Assuntos ministrados no Módulo 2
 
 ### Um pouco mais de teoria e prática sobre:
     1. Git status

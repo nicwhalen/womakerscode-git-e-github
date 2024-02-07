@@ -1,8 +1,8 @@
-# Assuntos ministrados no Módulo 1:
+# Assuntos ministrados no Módulo 1
 
-### - O que é Versionamento de código?
-### - O que é um Repositório?
-### - Parte teórica sobre:
+### O que é Versionamento de código?
+### O que é um Repositório?
+### Parte teórica sobre:
     1. Commit
     2. Change (Diff)
     3. Branch
